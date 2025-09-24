@@ -34,7 +34,6 @@ def neighbour(r, c):
 def explore(r, c, node, used, words):
     """
     r, c (int): Row and column of position to explore from
-    pre (str): Chain of letters to explore from, i.e. pre[-1] should be at row r & col c
     node (dict): The point from TRIE to explore from
     used (list[tuple]): Contains (r, c) coordinates of already used letters
     words (set): Container in outer scope to store all valid words
