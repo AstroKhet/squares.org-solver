@@ -36,12 +36,8 @@ python solver.py
 
 4. **Check the results**  
    - Found words are grouped by length.  
-   - Try them all out! (Disclaimer: some words may not be recognized if they aren’t in the dictionary.)
+   - Try them all out! (Disclaimer: some words may not be recognized if they aren’t also in squares.org's dictionary.)
 
-## License
+## Credits
 
-MIT License
-
-## Credits / Acknowledgements
-
-Squares Solver uses this [word list](https://github.com/dwyl/english-words).
+Squares Solver uses this [word list](https://github.com/dwyl/english-words/blob/master/words.txt).
