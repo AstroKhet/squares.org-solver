@@ -6,6 +6,10 @@ Solver for the word puzzle game [Squares](https://squares.org/).
 
 1. **Clone this repository:**
 
+Select `<> Code` and then `Download ZIP`
+
+or
+
 ```bash
 git clone https://github.com/yourusername/squares-solver.git
 cd squares-solver
