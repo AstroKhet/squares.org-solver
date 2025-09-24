@@ -34,6 +34,8 @@ flattened_board = "ASXERTGBOPTEAMNV"
 python solver.py
 ```
 
+Solve time should take `<1s`
+
 4. **Check the results**  
    - Found words are grouped by length.  
    - Try them all out! (Disclaimer: some words may not be recognized if they aren’t also in squares.org's dictionary.)
